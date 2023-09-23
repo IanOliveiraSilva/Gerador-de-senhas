@@ -1,2 +1,2 @@
-# Gerador-de-senhas
+# Gerador de senhas
 Um site que gera senhas aleatoriamente
