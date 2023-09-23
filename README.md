@@ -33,7 +33,7 @@ Vá para o diretorio do projeto
 ### Remoto
 Para usar remotamente, basta acessar o link:
 
-  - [Gerador de senhas](https://github.com/IanOliveiraSilva)
+  - [Gerador de senhas](https://ianoliveirasilva.github.io/Gerador-de-senhas/)
 
 
 ## Tecnologias Utilizadas
