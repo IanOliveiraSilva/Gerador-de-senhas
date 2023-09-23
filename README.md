@@ -1,6 +1,5 @@
 
-# Calculadora Fitness
-
+# Gerador de Senhas
 Este é um projeto de Gerador de Senhas desenvolvido para ajudar os usuários a criar senhas seguras e personalizadas com base em diferentes critérios, como comprimento da senha, inclusão de letras maiúsculas, letras minúsculas, números e caracteres especiais. O gerador de senha oferece uma maneira fácil de garantir a segurança de suas contas online e proteger suas informações pessoais.
 
 ## Recursos Principais
