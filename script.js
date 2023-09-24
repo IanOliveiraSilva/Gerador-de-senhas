@@ -1,5 +1,12 @@
+
+document.getElementById("length").addEventListener("input", function () {
+    var lengthValue = document.getElementById("lengthValue");
+    lengthValue.textContent = this.value;
+});   
+
 function gerarSenha() {
     var length = document.getElementById("length").value;
+    document.getElementById("lengthValue").textContent = length;
     var lowercase = document.getElementById("lowercase").checked;
     var uppercase = document.getElementById("uppercase").checked;
     var numbers = document.getElementById("numbers").checked;
@@ -39,4 +46,5 @@ document.getElementById("senha").addEventListener("click", function () {
 
     document.body.removeChild(tempInput);
 });
+
 
